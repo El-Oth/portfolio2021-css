@@ -82,3 +82,8 @@ footer {
 #resume a {
   text-decoration: underline;
 }
+.videos {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 60px;
+}
